@@ -1,4 +1,5 @@
-# MLCS-WiSe2020
+# Maleware Classification from their signature
+MLCS-WiSe2020
 Universität des Saarlandes - Machine Learning in Cyber Security 2020 - Semester Project
 
 ## Team Name: Alpha
